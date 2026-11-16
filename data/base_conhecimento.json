@@ -1,0 +1,304 @@
+[
+  {
+    "id": 1,
+    "categoria": "Documentos",
+    "titulo": "CPF: inscrição gratuita na Receita Federal",
+    "palavras_chave": [
+      "cpf",
+      "tirar cpf",
+      "fazer cpf",
+      "inscricao no cpf",
+      "cadastro de pessoa fisica",
+      "numero do cpf",
+      "cpf irregular",
+      "regularizar cpf"
+    ],
+    "resposta": "O CPF é o seu número de cadastro na Receita Federal. A inscrição é gratuita. Você precisa dele para ser contratado, abrir conta e acessar a Carteira de Trabalho Digital. O número do CPF também é o número da nova identidade (CIN).",
+    "documentos": [
+      "Documento de identificação oficial (como o RG ou a certidão de nascimento)"
+    ],
+    "onde": "Site da Receita Federal ou unidades de atendimento indicadas no próprio site",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 2,
+    "categoria": "Documentos",
+    "titulo": "Carteira de Identidade Nacional (novo RG)",
+    "palavras_chave": [
+      "rg",
+      "novo rg",
+      "carteira de identidade",
+      "identidade",
+      "cin",
+      "segunda via do rg",
+      "tirar rg",
+      "fazer rg",
+      "rg antigo",
+      "validade do rg"
+    ],
+    "resposta": "A Carteira de Identidade Nacional (CIN) é o novo RG e usa o número do CPF. O RG antigo continua valendo até 28/02/2032, então não precisa trocar com pressa. Para emitir, procure o órgão de identificação do seu estado e veja se é preciso agendar. A lista exata de documentos e as taxas mudam de estado para estado.",
+    "documentos": [
+      "Certidão de nascimento ou de casamento",
+      "CPF"
+    ],
+    "onde": "Instituto de Identificação ou posto de identificação do seu estado",
+    "fonte": "https://www.gov.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 3,
+    "categoria": "Documentos",
+    "titulo": "Título de eleitor e voto aos 16 e 17 anos",
+    "palavras_chave": [
+      "titulo de eleitor",
+      "titulo",
+      "eleitor",
+      "votar",
+      "voto",
+      "e titulo",
+      "cartorio eleitoral",
+      "tirar titulo",
+      "fazer titulo",
+      "justica eleitoral"
+    ],
+    "resposta": "O título de eleitor é feito na Justiça Eleitoral. Aos 16 e 17 anos o voto é facultativo (opcional) e, a partir dos 18 anos, é obrigatório. Pelo celular, o aplicativo e-Título mostra o seu título. O cadastro eleitoral fecha um tempo antes de cada eleição: confira a data no site do TSE.",
+    "documentos": [
+      "Documento oficial com foto",
+      "Comprovante de residência"
+    ],
+    "onde": "Site do TSE (pré-atendimento) e Cartório Eleitoral da sua cidade",
+    "fonte": "https://www.tse.jus.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 4,
+    "categoria": "Documentos",
+    "titulo": "Carteira de Trabalho Digital",
+    "palavras_chave": [
+      "carteira de trabalho",
+      "carteira digital",
+      "ctps",
+      "carteira assinada",
+      "registro em carteira",
+      "contrato de trabalho",
+      "ver meu emprego",
+      "aplicativo da carteira",
+      "conta na carteira",
+      "primeiro emprego na carteira"
+    ],
+    "resposta": "A Carteira de Trabalho hoje é digital: você baixa o aplicativo Carteira de Trabalho Digital e entra com a sua conta gov.br. O número da carteira é o seu CPF. No aplicativo você confere se a empresa registrou o seu contrato de trabalho.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital (Android e iOS)",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 5,
+    "categoria": "Documentos",
+    "titulo": "Alistamento militar aos 18 anos",
+    "palavras_chave": [
+      "alistamento militar",
+      "alistamento",
+      "exercito",
+      "junta de servico militar",
+      "servico militar",
+      "reservista",
+      "alistar",
+      "militar"
+    ],
+    "resposta": "O alistamento militar é obrigatório para homens no ano em que completam 18 anos, de janeiro até 30 de junho. É gratuito e pode ser feito pela internet, com conta gov.br, ou presencialmente na Junta de Serviço Militar. Quem perde o prazo paga multa e precisa regularizar a situação. Para mulheres o alistamento é voluntário.",
+    "documentos": [
+      "Na Junta de Serviço Militar: certidão de nascimento ou de casamento, carteira de identidade ou carteira de trabalho e comprovante de residência"
+    ],
+    "onde": "Site Alistamento Online (com conta gov.br) ou Junta de Serviço Militar mais próxima",
+    "fonte": "https://alistamento.eb.mil.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 6,
+    "categoria": "Primeiro emprego",
+    "titulo": "Contrato de experiência de até 90 dias",
+    "palavras_chave": [
+      "contrato de experiencia",
+      "periodo de experiencia",
+      "experiencia",
+      "90 dias",
+      "primeiro emprego",
+      "contrato de prazo determinado",
+      "clt",
+      "prorrogar experiencia"
+    ],
+    "resposta": "O contrato de experiência é por prazo determinado, deve ser feito por escrito e pode durar no máximo 90 dias. Só pode ser prorrogado uma vez, dentro desse limite. Durante a experiência você tem salário, FGTS, 13º e férias proporcionais. Passou de 90 dias, o contrato vira sem prazo.",
+    "documentos": [
+      "Contrato de experiência por escrito"
+    ],
+    "onde": "Com o empregador (RH). Dúvidas: Ministério do Trabalho e Emprego",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 7,
+    "categoria": "Primeiro emprego",
+    "titulo": "Jovem Aprendiz: contrato de aprendizagem de 14 a 24 anos",
+    "palavras_chave": [
+      "jovem aprendiz",
+      "aprendiz",
+      "menor aprendiz",
+      "contrato de aprendizagem",
+      "aprendizagem",
+      "programa jovem aprendiz",
+      "14 anos"
+    ],
+    "resposta": "O contrato de jovem aprendiz é para quem tem de 14 a 24 anos (24 incompletos). É um contrato especial, por escrito, com carteira assinada e duração máxima de 2 anos, junto com um curso de aprendizagem. A jornada é de até 6 horas por dia (até 8 se você já concluiu o ensino fundamental) e não tem hora extra. Para pessoas com deficiência não há limite de idade nem de 2 anos.",
+    "documentos": [
+      "Documento de identificação",
+      "CPF",
+      "Comprovante de matrícula e frequência na escola, se ainda não concluiu o ensino médio"
+    ],
+    "onde": "Empresas que contratam aprendizes e entidades de aprendizagem (por exemplo, o Senac)",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/Leis/L10097.htm",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 8,
+    "categoria": "Primeiro emprego",
+    "titulo": "Estágio: regras e direitos do estagiário",
+    "palavras_chave": [
+      "estagio",
+      "estagiario",
+      "estagiaria",
+      "lei do estagio",
+      "termo de compromisso",
+      "bolsa auxilio",
+      "recesso",
+      "estagiar"
+    ],
+    "resposta": "Estágio é para estudantes e não é emprego com carteira assinada. Precisa de termo de compromisso assinado por você, pela empresa e pela escola, e de seguro contra acidentes pessoais. A jornada máxima é de 6 horas por dia e 30 por semana (ensino médio regular, técnico e superior). Dura no máximo 2 anos na mesma empresa (exceto para pessoa com deficiência) e dá recesso remunerado de 30 dias a cada 12 meses, proporcional se for menos tempo.",
+    "documentos": [
+      "Termo de compromisso de estágio, assinado por você, pela empresa e pela escola"
+    ],
+    "onde": "Setor de estágios da sua escola ou faculdade e a empresa concedente",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 9,
+    "categoria": "Primeiro emprego",
+    "titulo": "Férias e 13º salário",
+    "palavras_chave": [
+      "ferias",
+      "decimo terceiro",
+      "13 salario",
+      "13o salario",
+      "tirar ferias",
+      "abono de ferias",
+      "direito a ferias",
+      "gratificacao natalina"
+    ],
+    "resposta": "Depois de 12 meses de trabalho com carteira assinada, você tem direito a 30 dias de férias, com um terço a mais no pagamento. Quem escolhe a data das férias é a empresa. O 13º salário é pago em duas parcelas: a primeira até 30 de novembro e a segunda até 20 de dezembro. No primeiro ano ele é proporcional aos meses trabalhados.",
+    "documentos": [
+      "Contracheque (holerite) para conferir os valores"
+    ],
+    "onde": "Com o RH da empresa. Dúvidas: Ministério do Trabalho e Emprego",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del5452.htm",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 10,
+    "categoria": "Dinheiro e proteção",
+    "titulo": "FGTS: depósito mensal da empresa",
+    "palavras_chave": [
+      "fgts",
+      "fundo de garantia",
+      "saldo do fgts",
+      "saque do fgts",
+      "sacar fgts",
+      "multa de 40",
+      "deposito do fgts",
+      "consultar fgts"
+    ],
+    "resposta": "O FGTS é um dinheiro que a empresa deposita todo mês, 8% do seu salário, numa conta em seu nome na Caixa. Esse valor não é descontado do seu salário. Para aprendiz o depósito é de 2%. Você pode sacar, por exemplo, quando é demitido sem justa causa, e nesse caso a empresa também paga multa de 40% sobre os depósitos. O saldo pode ser consultado no aplicativo FGTS.",
+    "documentos": [
+      "CPF",
+      "Documento de identificação"
+    ],
+    "onde": "Aplicativo FGTS ou agências da Caixa Econômica Federal",
+    "fonte": "https://www.planalto.gov.br/ccivil_03/leis/l8036consol.htm",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 11,
+    "categoria": "Dinheiro e proteção",
+    "titulo": "Seguro-desemprego depois da demissão",
+    "palavras_chave": [
+      "seguro desemprego",
+      "demitido",
+      "demissao",
+      "mandado embora",
+      "desemprego",
+      "perdi o emprego",
+      "dispensado",
+      "sem justa causa"
+    ],
+    "resposta": "O seguro-desemprego é um benefício temporário para quem foi demitido sem justa causa. Quem tinha carteira assinada deve pedir entre o 7º e o 120º dia depois da demissão (empregado doméstico: entre o 7º e o 90º dia). O pedido é feito pelo aplicativo Carteira de Trabalho Digital, pelo portal gov.br ou em uma unidade de atendimento. O valor e o número de parcelas dependem do seu histórico de trabalho.",
+    "documentos": [
+      "Documento de identificação",
+      "Carteira de trabalho",
+      "Documentos da demissão entregues pela empresa"
+    ],
+    "onde": "Aplicativo Carteira de Trabalho Digital, portal gov.br ou Agência do Trabalhador",
+    "fonte": "https://www.gov.br/trabalho-e-emprego",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 12,
+    "categoria": "Dinheiro e proteção",
+    "titulo": "Meu INSS: contribuições e benefícios",
+    "palavras_chave": [
+      "inss",
+      "meu inss",
+      "previdencia",
+      "contribuicao",
+      "extrato de contribuicao",
+      "aposentadoria",
+      "135",
+      "agendar inss"
+    ],
+    "resposta": "O Meu INSS é o site e o aplicativo do INSS. Nele você consulta o extrato das suas contribuições, pede benefícios e agenda atendimento. A central de atendimento é o telefone 135. É preciso ter conta gov.br.",
+    "documentos": [
+      "CPF",
+      "Conta gov.br"
+    ],
+    "onde": "Site ou aplicativo Meu INSS, ou telefone 135",
+    "fonte": "https://meu.inss.gov.br",
+    "verificado_em": "2026-11-11"
+  },
+  {
+    "id": 13,
+    "categoria": "Dinheiro e proteção",
+    "titulo": "CadÚnico: programas sociais do governo",
+    "palavras_chave": [
+      "cadunico",
+      "cad unico",
+      "cadastro unico",
+      "cras",
+      "programa social",
+      "bolsa familia",
+      "tarifa social",
+      "baixa renda"
+    ],
+    "resposta": "O CadÚnico é a porta de entrada para programas sociais do governo, como o Bolsa Família e a tarifa social de energia. Podem se inscrever famílias com renda de até meio salário mínimo por pessoa ou renda total de até 3 salários mínimos. Faça o pré-cadastro pelo aplicativo ou site Meu CadÚnico, com conta gov.br, e conclua a entrevista no CRAS do seu município. Atualize o cadastro a cada 2 anos ou quando algo mudar.",
+    "documentos": [
+      "CPF ou RG dos membros da família",
+      "Comprovante de residência",
+      "Comprovante de renda, se houver"
+    ],
+    "onde": "CRAS ou posto de cadastramento do seu município; pré-cadastro no Meu CadÚnico",
+    "fonte": "https://meucadunico.cidadania.gov.br/meu_cadunico/",
+    "verificado_em": "2026-11-11"
+  }
+]
